@@ -20,8 +20,9 @@ to find data quality issues. The dataset is fictional and built for practice.
 
 ## Files
 - `messy_study_data_checks.sql`: table setup and all 6 checks
-- `data_review_report.pdf`: findings and proposed queries to the site
-- `screeshot_of_files`: DB Browser for SQLite
+- `Data Review Report.pdf`: findings and proposed queries to the site
+- `Screenshot (1).png` to `Screenshot (3).png`: query results in DB Browser for SQLite
+
 ## Tools
 SQL (SQLite), DB Browser for SQLite
 
