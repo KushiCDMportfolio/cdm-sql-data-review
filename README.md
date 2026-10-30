@@ -24,9 +24,9 @@ to find data quality issues. The dataset is fictional and built for practice.
 - `Screenshot (1).png` to `Screenshot (3).png`: query results in DB Browser for SQLite
 
 ## Sample results
-![Check results 1](Screenshot%20%281%29.png)
-![Check results 2](Screenshot%20%282%29.png)
-![Check results 3](Screenshot%20%283%29.png)
+![Sample result 1](Screenshot%20%281%29.png)
+![Sample result 2](Screenshot%20%282%29.png)
+![Sample result 3](Screenshot%20%283%29.png)
 
 ## Tools
 SQL (SQLite), DB Browser for SQLite
