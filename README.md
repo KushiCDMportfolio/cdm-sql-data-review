@@ -24,10 +24,9 @@ to find data quality issues. The dataset is fictional and built for practice.
 - `Screenshot (1).png` to `Screenshot (3).png`: query results in DB Browser for SQLite
 
 ## Sample results
-Screenshots from DB Browser for SQLite showing the checks running on the mock data.
-![Sample result 1](https://raw.githubusercontent.com/KushiCDMportfolio/cdm-sql-data-review/main/Screenshot%20%281%29.png)
-![Sample result 2](https://raw.githubusercontent.com/KushiCDMportfolio/cdm-sql-data-review/main/Screenshot%20%282%29.png)
-![Sample result 3](https://raw.githubusercontent.com/KushiCDMportfolio/cdm-sql-data-review/main/Screenshot%20%283%29.png)
+<img width="1366" height="726" alt="Screenshot SQL 1" src="https://github.com/user-attachments/assets/d873805c-5583-45ea-bdcc-b5026cb0023b" />
+<img width="1366" height="723" alt="Screenshot SQL 2" src="https://github.com/user-attachments/assets/8e078f3b-83f2-4cdd-a65f-0f4a84e725dc" />
+<img width="1366" height="726" alt="Screenshot SQL 3" src="https://github.com/user-attachments/assets/254b2897-c841-42d7-93a9-c510a96704c5" />
 
 ## Tools
 SQL (SQLite), DB Browser for SQLite
